@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated monitoring reports and logs
+health_report.txt
+cron.log
+
+# Secrets and environment files
+.env
